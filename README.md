@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @conorerickson
-- 👀 I’m interested in C# and Game Dev on Unity Engine.
+- 👀 I’m interested in C# and Game Dev on Unity Engine, as well as Web Development.
 - 🌱 I’m currently learning C# fundamentals and Object Oriented Programming.
 - 📫 How to reach me: email me at conore21@gmail.com
 
