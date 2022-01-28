@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @conorerickson
-- 👀 I’m interested in C# and Game Dev on Unity Engine, as well as Web Development.
-- 🌱 I’m currently learning C# fundamentals and Object Oriented Programming, as well as HTML, CSS and Javascript.
+- 👀 I’m interested in C# and Game Dev on Unity Engine.
+- 🌱 I’m currently learning C# fundamentals and Object Oriented Programming.
 - 📫 How to reach me: On Discord: Erickson_Conor#7961
 
 <!---
