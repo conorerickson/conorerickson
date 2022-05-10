@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @conorerickson
-- 👀 I’m interested in C# and Game Dev on Unity Engine.
+- 👀 I’m interested in Web Development.
 - 🌱 I’m currently learning programming fundamentals and Object Oriented Programming.
-- 📫 How to reach me: On Discord: Erickson_Conor#7961
+- 📫 How to reach me: On Discord: Erickson_Conor#7961, or at conore21@gmail.com
+- I love to learn! 
+- If you're viewing from a job application, please e-mail me at the address above! Thank you!
 
 <!---
 conorerickson/conorerickson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
